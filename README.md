@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Please read the notes as featured in each of the sections as you use this webpage. Additionally, the Console Panel in Chrome can be opened up to view an outline of the material along with a recommendation on what material to review first.
+Please read the notes as featured in each of the sections as you use this webpage. Additionally, the Console Panel in Chrome can be opened up with Control+Shift+I on Windows or Command+Option+I to view an outline of the material along with a recommendation on what material to review first.
 
 ## Credits
 
